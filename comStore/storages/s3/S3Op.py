@@ -11,8 +11,5 @@ class S3Operator:
     def list(self):
         pass
 
-    def list(self):
-        pass
-
     def move(self):
         pass

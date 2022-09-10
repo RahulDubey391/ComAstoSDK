@@ -11,8 +11,5 @@ class GCSOperator:
     def list(self):
         pass
 
-    def list(self):
-        pass
-
     def move(self):
         pass

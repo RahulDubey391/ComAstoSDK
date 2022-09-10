@@ -11,8 +11,5 @@ class AZBOperator:
     def list(self):
         pass
 
-    def list(self):
-        pass
-
     def move(self):
         pass
